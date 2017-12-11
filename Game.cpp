@@ -8,6 +8,8 @@ int main(){
 
 }
 
+// modifier par ddik
+
 /*
 int main(){
     // Creation de l'objet MAGICIEN & GUERIER
