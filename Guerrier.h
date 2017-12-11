@@ -21,3 +21,5 @@ public:
 };
 */
 #endif // GUERRIER_H_INCLUDED
+
+// modif by mehdi
